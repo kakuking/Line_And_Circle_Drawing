@@ -1,5 +1,5 @@
-# L-System Assignment
-### Kartikeya Dubey 2020A7PS0031H
+# Midpoint Lines, Midpoint Circles, and L-Systems
+### Kartikeya Dubey
 
 I have developed the algorithm(s) in CodeBlocks. In order to run the program, simply run main.cpp. The window should open up.
 
